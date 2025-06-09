@@ -1,3 +1,5 @@
+#código para entrar no pendrive e ler um arquivo txt
+
 import os
 
 def lendoArquivoPendrive(drive_letter, filename):
